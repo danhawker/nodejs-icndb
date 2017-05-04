@@ -1,0 +1,4 @@
+= nodejs-icndb
+Node.js app that retrieves from www.icndb.com
+
+Inspired by the node.js app at https://github.com/paralect/ansible-node-sample
